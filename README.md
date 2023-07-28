@@ -6,6 +6,10 @@ To ensure successful code deployment, follow these steps:
 - Create a MongoDB connection and store the configuration securely in KeyVault.
 - Change the Version in OpenApiDocumentName from "V1" to "V3".
 
+![MicrosoftTeams-image](https://github.com/MArslanRiaz96/TransCelerate-API/assets/50524891/29f2029c-d3ea-4300-b754-09d33e784a94)
+
+
+
 # Code setup and debugging
 ## Pre-requisites
 
